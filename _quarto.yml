@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources:
+    - keybase.txt
+    - cv.pdf
+
+website:
+  title: "Erh-Chi Hsu"
+  site-url: https://echsu
+  description: "Technology and the Environment"
+  open-graph:
+    locale: en_US
+  comments:
+    utterances:
+      repo: erhchihsu/echsu
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Papers"
+        href: papers
+      - text: "Presentations"
+        href: presentations
+      - text: "Blog"
+        href: blog.html
+      - icon: rss
+        href: blog.xml
+  page-footer:
+    left: "© Copyright 2024 Erh-Chi Hsu. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
