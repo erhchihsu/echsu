@@ -1,1 +1,1 @@
-Sitemap: https://echsu/sitemap.xml
+Sitemap: https://erhchihsu.github.io/echsu/sitemap.xml
