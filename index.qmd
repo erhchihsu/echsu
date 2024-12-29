@@ -25,9 +25,9 @@ comments: false
 ::: column-page
 ## Bio
 
-I am a PhD student at Johns Hopkins University, School of Nursing. I'm interested in two research tracks, memory care for older adults in long-term care settings and technology activities for community dwelling older adults.
+I am a PhD student at Johns Hopkins School of Nursing pursuing dual research interests: memory care in long-term care settings and technology use among community-dwelling older adults.
 
-Currently, I split my time between longitudinal data analysis using the [National Health and Aging Trends Study (NHATS)](https://www.nhats.org/researcher/nhats) to understand the effects of multiple technology activities on cognitive domains, and conducting policy coding of the [Memory Care in Assisted Living](https://reporter.nih.gov/search/pnhLW9C0Dke68U3EIAeIUQ/project-details/11050173) applying the [health services regulatory analysis](https://pubmed.ncbi.nlm.nih.gov/33426637/), and Spatial analysis to explore the long term care market changes using ArcGIS. 
+My current research focuses on analyzing the [National Health and Aging Trends Study (NHATS)](https://www.nhats.org/researcher/nhats) longitudinal data to examine how various technology activities impact cognitive domains. I also conduct policy analysis of [Memory Care in Assisted Living](https://reporter.nih.gov/search/pnhLW9C0Dke68U3EIAeIUQ/project-details/11050173) using the method of [health services regulatory analysis](https://pubmed.ncbi.nlm.nih.gov/33426637/), and performing spatial analysis of long-term care market dynamics using ArcGIS as well.
 
 Due to my personal interest in data visualization, I worked on some side projects, such as an [Emergency Room Dashboard](https://public.tableau.com/views/ER_dashboard_story/ERDashboardStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link), and voluntarily built a program performance dashboard for a non-profit organization that cultivates BIPOC's young leadership in Baltimore.
 
