@@ -25,9 +25,11 @@ comments: false
 ::: column-page
 ## Bio
 
-I am a PhD student at Johns Hopkins University, School of Nursing, studying the effect of digital environment and mobile health interventions on sleep and cognitive function for older adults with dementia or mild cognitive impairment (MCI).
+I am a PhD student at Johns Hopkins University, School of Nursing. I'm interested in two research tracks, memory care for older adults in long-term care settings and technology activities for community dwelling older adults.
 
-Currently, I split my time between longitudinal data analysis using the [National Health and Aging Trends Study (NHATS)](https://www.nhats.org/researcher/nhats) to understand the impact of the multi-level digital environment on cognitive domains, and wrapping up the [Sound Study](https://reporter.nih.gov/search/nkcMQnuMCEyKbdUbZOOXXw/project-details/10683238) regarding the effect of 40Hz acoustic modalities and preferred music on older adults with MCI. Due to my personal interest in data visualization, I worked on some side projects, such as an [Emergency Room Dashboard](https://public.tableau.com/views/ER_dashboard_story/ERDashboardStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link), and voluntarily built a program performance dashboard for a non-profit organization that cultivates BIPOC's young leadership in Baltimore.
+Currently, I split my time between longitudinal data analysis using the [National Health and Aging Trends Study (NHATS)](https://www.nhats.org/researcher/nhats) to understand the effects of multiple technology activities on cognitive domains, and conducting policy coding of the [Memory Care in Assisted Living](https://reporter.nih.gov/search/pnhLW9C0Dke68U3EIAeIUQ/project-details/11050173) applying the [health services regulatory analysis](https://pubmed.ncbi.nlm.nih.gov/33426637/), and Spatial analysis to explore the long term care market changes using ArcGIS. 
+
+Due to my personal interest in data visualization, I worked on some side projects, such as an [Emergency Room Dashboard](https://public.tableau.com/views/ER_dashboard_story/ERDashboardStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link), and voluntarily built a program performance dashboard for a non-profit organization that cultivates BIPOC's young leadership in Baltimore.
 
 By training, I am either a public health or nurse scientist; professionally, I've worked as a registered nurse in a geriatric ward and as a mixed-method specialist for a [Washington State Department of Health project](https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=ECS%20Report%20(Chapter%2058%20Laws%20of%202022)_8c782540-b0f4-48b7-813d-fe1155f84d2a.pdf).
 
@@ -39,17 +41,11 @@ On this site I keep a list of [my projects](projects), [publications](papers), a
 
 ## Highlights
 
-#### **Projects**
-
-**Emergency Room Dashboard**: A dashboard presenting an overview on an emergency department and patient extractor for prolonged time by Tableau. [\[Link\]](https://public.tableau.com/views/ER_dashboard_story/ERDashboardStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-**Program Performance Dashboard**: A dashboard presenting the demographic overview, longitudinal attendance, and geographical distribution of participants in a program. Note: The data was de-identified or faked to protect the privacy of participants. [\[Link\]](/projects/dashboard.html)
-
-**Longitudinal Medicaid Enterprise System (MES) Contract Status by State**: An interactive dashboard presenting the state contracts of Medicaid Management Information System (MMIS) and Eligibility and Enrollment (E&E) based on the information provided at [Medicaid.gov](https://www.medicaid.gov/medicaid/data-and-systems/mmis/contract-status-report/index.html). [\[Link\]](https://public.tableau.com/views/MMIS_Contract_State_Map_v1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-**Commercial Analysis Dashboard - Discount Abuse**: A dashboard identifying the excessive use of discount by customers, sales, and profits. [\[Link\]](https://public.tableau.com/views/practice19_DiscountAbusedStory/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
 #### **Publications**
+
+Huang, J., Spira, A. P., Perrin, N. A., Ellis, A., **Hsu, E. C.**, Kaufmann, C. N., & Li, J. (2025). Latent classes
+of sleep problems and subjective cognitive decline among middle-aged and older adults in the United States.
+Archives of Gerontology and Geriatrics, 129, 105657. <https://doi.org/10.1016/J.ARCHGER.2024.105657>
 
 **Hsu, E. C.**, Tsai, J. H. C., Spigner, C., & Chim, K. (2023). Perceptions and Experiences of Family Caregivers of Older First-Generation Chinese Americans with Dementia. Innovation in Aging, 7(Suppl 1), 882. <https://doi.org/10.1093/geroni/igad104.2839>
 
@@ -57,9 +53,23 @@ Sabbatini, A. K., Parrish, C., Duber, H. C., Weaver, M., & **Hsu, E. C.** (2023)
 
 #### **Presentations**
 
+**[2024 GSA]** **Hsu, E. C.**, Jutkowitz, E., & Thomas, K. (2024, November). The Association Between Digital Technology Activities and Cognitive Domains of Community Dwelling Older Adults \[Poster presentation\](/presentations/GSA2024_Poster_v1.pdf). 2024 Annual Scientific Meeting of the Gerontological Society of America. Seattle, WA, United States.
+
+**[2024 GSA]**  Li, J., He, R., **Hsu, E. C.**, & Li, J. (2024, November). Key Instrumental Activities of Daily Living and Cognitive Domains in Non-demented Older Adults: A Network Analysis \[Poster presentation\]. 2024 Annual Scientific Meeting of the Gerontological Society of America. Seattle, WA, United States.
+
+**[2024 Sleep & Circadian Research Day]** **Hsu, E. C.**, Szanton, S., Pantelyat, A., Kang, K., Huang, J., & Li, J. (2024, June). Effects of 40 Hz Auditory Interventions on Sleep and Cognition in Older Adults with Mild Cognitive Impairment \[Oral presentation\](/presentations/ech_sleep_day_final.pdf). 8th Annual Johns Hopkins Sleep & Circadian Research Day. Baltimore, MD, United States.
+
 **[2024 SLEEP]** Huang, J., Spira, A. P., Perrin, N. A., Ellis, A., **Hsu, E. C.**, & Li, J. (2024, June 1-5). Latent Classes of Sleep Problems and Subjective Cognitive Decline Among U.S. Middle-Aged and Older Adults \[Oral presentation\]. SLEEP 2024, Houston, TX, United States.
 
 **[2023 GSA]** **Hsu, E. C.**, Tsai, J. H. C., Spigner, C., & Chim, K. (2023, November). Perceptions and Experiences of Family Caregivers of Older First-Generation Chinese Americans with Dementia [\[Poster presentation\]](/presentations/gsa_poster_final.pdf). 2023 Annual Scientific Meeting of the Gerontological Society of America. Tampa, FL.
 
 **[2023 GSA]** Wang, C., **Hsu, E. C.**, Li, M., Huang, J., Tufa, Y., Li, J. (2023, November). Lifelong Learning and Self‐Efficacy of Physical Activity Engagement in Sedentary Older Adults: A Qualitative Study \[Poster presentation\]. 2023 Annual Scientific Meeting of the Gerontological Society of America. Tampa, FL.
+
+#### **Side Projects**
+
+**Emergency Room Dashboard**: A dashboard presenting an overview on an emergency department and patient extractor for prolonged time by Tableau. [\[Link\]](https://public.tableau.com/views/ER_dashboard_story/ERDashboardStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Program Performance Dashboard**: A dashboard presenting the demographic overview, longitudinal attendance, and geographical distribution of participants in a program. Note: The data was de-identified or faked to protect the privacy of participants. [\[Link\]](/projects/dashboard.html)
+
+**Commercial Analysis Dashboard - Discount Abuse**: A dashboard identifying the excessive use of discount by customers, sales, and profits. [\[Link\]](https://public.tableau.com/views/practice19_DiscountAbusedStory/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 :::
