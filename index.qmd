@@ -25,15 +25,17 @@ comments: false
 ::: column-page
 ## Bio
 
-I am a PhD student at Johns Hopkins School of Nursing pursuing dual research interests: memory care in long-term care settings and technology use among community-dwelling older adults.
+I am a PhD student at the Johns Hopkins School of Nursing. My long-term research goal is to identify ways to improve the well-being of older adults, their caregivers, and the long-term care workforce. My work spans the long-term care continuum, from community-based services to institutional settings such as assisted living (AL) communities and nursing homes (NH). Ultimately, my goal is to inform policy and payment decisions that enhance care quality and support a more sustainable and equitable workforce.
 
-My current research focuses on analyzing the [National Health and Aging Trends Study (NHATS)](https://www.nhats.org/researcher/nhats) longitudinal data to examine how various technology activities impact cognitive domains. I also conduct policy analysis of [Memory Care in Assisted Living](https://reporter.nih.gov/search/pnhLW9C0Dke68U3EIAeIUQ/project-details/11050173) using the method of [health services regulatory analysis](https://pubmed.ncbi.nlm.nih.gov/33426637/), and performing spatial analysis of long-term care market dynamics using ArcGIS as well.
+Currently, I am working on several projects: (1) a [spatial analysis](https://academyhealth.confex.com/academyhealth/2025arm/meetingapp.cgi/Paper/70110) of long-term care market dynamics to examine whether increased assisted living capacity may delay or reduce nursing home admissions among people with dementia; (2) a geospatial study identifying co-located assisted living communities and nursing homes, including analysis of their characteristics and trends over time; and (3) the development of national policy coding databases on assisted living and adult day centers (as part of the [RF1](https://reporter.nih.gov/search/P92TcjIwAkmW297-HYQHsQ/project-details/11050173#description) and [U54](https://reporter.nih.gov/search/Ao3c20JdkEWkOnrC0ayDUQ/project-details/10986806#description) grants, respectively), which capture how states regulate areas such as staffing, staff training, building requirements, and care processes. These policy data will later be merged with claims datasets to study the impact of regulation on older adults.
 
-Due to my personal interest in data visualization, I worked on some side projects, such as an [Emergency Room Dashboard](https://public.tableau.com/views/ER_dashboard_story/ERDashboardStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link), and voluntarily built a program performance dashboard for a non-profit organization that cultivates BIPOC's young leadership in Baltimore.
+My dissertation focuses on the role of training requirements in assisted living. Using two national datasets—the National Post-Acute and Long-Term Care Study [(NPALS)](https://www.cdc.gov/nchs/npals/questionnaires/index.html) and the National Dementia Workforce Study [(NDWS)](https://www.ndws.org)—I will explore: (1) the impact of state-level enforcement on assisted living facilities; (2) how facilities adapt to these requirements; (3) how these adaptations affect workforce outcomes; and (4) how workforce practices relate to resident outcomes.
 
-By training, I am either a public health or nurse scientist; professionally, I've worked as a registered nurse in a geriatric ward and as a mixed-method specialist for a [Washington State Department of Health project](https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=ECS%20Report%20(Chapter%2058%20Laws%20of%202022)_8c782540-b0f4-48b7-813d-fe1155f84d2a.pdf).
+In addition, I lead a [side project](https://pmc.ncbi.nlm.nih.gov/articles/PMC11692819/) funded by the Center for Equity in Aging at Johns Hopkins School of Nursing, which uses longitudinal data from the National Health and Aging Trends Study [(NHATS)](https://www.nhats.org/researcher/nhats) to examine how engagement in various technology-related activities may influence cognitive functioning in older adults.
 
-On this site I keep a list of [my projects](projects), [publications](papers), and [presentations](presentations), as well as a [learning blog](blog.html).
+By training, I am both a public health and nurse scientist. Professionally, I have worked as a registered nurse in a geriatric ward and as a mixed-methods specialist for a Washington State Department of Health [project](https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=ECS%20Report%20(Chapter%2058%20Laws%20of%202022)_8c782540-b0f4-48b7-813d-fe1155f84d2a.pdf) evaluating emergency cardiac and stroke systems of care. Outside of my academic work, I’m a dedicated bird watcher!
+
+This site includes my [publications](papers), [presentations](presentations), and [my projects](projects), as well as a [learning blog](blog.html). Thank you for visiting.
 
 <p>
 
@@ -41,29 +43,30 @@ On this site I keep a list of [my projects](projects), [publications](papers), a
 
 ## Highlights
 
+#### **Awards**
+
+I recently receive the 2025 Graduate Research Assistant Award at the Research & Academic Affairs Awards Ceremony at Johns Hopkins School of Nursing!
+![](award.jpg)
+
 #### **Publications**
 
-Huang, J., Spira, A. P., Perrin, N. A., Ellis, A., **Hsu, E. C.**, Kaufmann, C. N., & Li, J. (2025). Latent classes
-of sleep problems and subjective cognitive decline among middle-aged and older adults in the United States.
-Archives of Gerontology and Geriatrics, 129, 105657. <https://doi.org/10.1016/J.ARCHGER.2024.105657>
+Li, J., He, R., **Hsu, E. C.**, & Li, J. (2025). Network Analysis of Key Instrumental Activities of Daily Living and Cognitive Domains for Targeted Intervention in US Older Adults Without Dementia: Cross-Sectional Study. JMIR Aging, 8. <https://doi.org/10.2196/67632>
 
-**Hsu, E. C.**, Tsai, J. H. C., Spigner, C., & Chim, K. (2023). Perceptions and Experiences of Family Caregivers of Older First-Generation Chinese Americans with Dementia. Innovation in Aging, 7(Suppl 1), 882. <https://doi.org/10.1093/geroni/igad104.2839>
+**Hsu, E. C.**, Tsai, J. H.-C., Chim, K., & Spigner, C. (2025). Multi-level factors of Chinese American family caregivers of individuals with dementia during COVID-19. Geriatric Nursing, 62, 200–206. <https://doi.org/10.1016/J.GERINURSE.2025.01.041>
+
+Huang, J., Spira, A. P., Perrin, N. A., Ellis, A., **Hsu, E. C.**, Kaufmann, C. N., & Li, J. (2025). Latent classes of sleep problems and subjective cognitive decline among middle-aged and older adults in the United States. Archives of Gerontology and Geriatrics, 129, 105657. <https://doi.org/10.1016/J.ARCHGER.2024.105657>
 
 Sabbatini, A. K., Parrish, C., Duber, H. C., Weaver, M., & **Hsu, E. C.** (2023). Report to the Legislature Emergency Cardiac and Stroke System Assessment. <https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=ECS%20Report%20(Chapter%2058%20Laws%20of%202022)_8c782540-b0f4-48b7-813d-fe1155f84d2a.pdf>
 
 #### **Presentations**
 
-**[2024 GSA]** **Hsu, E. C.**, Jutkowitz, E., & Thomas, K. (2024, November). The Association Between Digital Technology Activities and Cognitive Domains of Community Dwelling Older Adults \[Poster presentation\](/presentations/GSA2024_Poster_v1.pdf). 2024 Annual Scientific Meeting of the Gerontological Society of America. Seattle, WA, United States.
+**\[2025 ARM\]** **Hsu, E. C.**, Jutkowitz, E., & Thomas, K. (2024, November). Changes in Long-Term Care Markets: Assisted Living Supply and the Prevalence of Nursing Home Residents with Dementia from 2019 to 2021 [\[Poster presentation\]](https://academyhealth.confex.com/academyhealth/2025arm/meetingapp.cgi/Paper/70110). 2024 Annual Research Meeting of the AcademyHealth. Minneapolis, MN, United States.
 
-**[2024 GSA]**  Li, J., He, R., **Hsu, E. C.**, & Li, J. (2024, November). Key Instrumental Activities of Daily Living and Cognitive Domains in Non-demented Older Adults: A Network Analysis \[Poster presentation\]. 2024 Annual Scientific Meeting of the Gerontological Society of America. Seattle, WA, United States.
+**\[2024 GSA\]** **Hsu, E. C.**, Jutkowitz, E., & Thomas, K. (2024, November). The Association Between Digital Technology Activities and Cognitive Domains of Community Dwelling Older Adults [\[Poster presentation\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11692819/). 2024 Annual Scientific Meeting of the Gerontological Society of America. Seattle, WA, United States.
 
-**[2024 Sleep & Circadian Research Day]** **Hsu, E. C.**, Szanton, S., Pantelyat, A., Kang, K., Huang, J., & Li, J. (2024, June). Effects of 40 Hz Auditory Interventions on Sleep and Cognition in Older Adults with Mild Cognitive Impairment \[Oral presentation\](/presentations/ech_sleep_day_final.pdf). 8th Annual Johns Hopkins Sleep & Circadian Research Day. Baltimore, MD, United States.
+**\[2024 Sleep & Circadian Research Day\]** **Hsu, E. C.**, Szanton, S., Pantelyat, A., Kang, K., Huang, J., & Li, J. (2024, June). Effects of 40 Hz Auditory Interventions on Sleep and Cognition in Older Adults with Mild Cognitive Impairment [\[Oral presentation\]](/presentations/ech_sleep_day_final.pdf). 8th Annual Johns Hopkins Sleep & Circadian Research Day. Baltimore, MD, United States.
 
-**[2024 SLEEP]** Huang, J., Spira, A. P., Perrin, N. A., Ellis, A., **Hsu, E. C.**, & Li, J. (2024, June 1-5). Latent Classes of Sleep Problems and Subjective Cognitive Decline Among U.S. Middle-Aged and Older Adults \[Oral presentation\]. SLEEP 2024, Houston, TX, United States.
-
-**[2023 GSA]** **Hsu, E. C.**, Tsai, J. H. C., Spigner, C., & Chim, K. (2023, November). Perceptions and Experiences of Family Caregivers of Older First-Generation Chinese Americans with Dementia [\[Poster presentation\]](/presentations/gsa_poster_final.pdf). 2023 Annual Scientific Meeting of the Gerontological Society of America. Tampa, FL.
-
-**[2023 GSA]** Wang, C., **Hsu, E. C.**, Li, M., Huang, J., Tufa, Y., Li, J. (2023, November). Lifelong Learning and Self‐Efficacy of Physical Activity Engagement in Sedentary Older Adults: A Qualitative Study \[Poster presentation\]. 2023 Annual Scientific Meeting of the Gerontological Society of America. Tampa, FL.
+**\[2023 GSA\]** **Hsu, E. C.**, Tsai, J. H. C., Spigner, C., & Chim, K. (2023, November). Perceptions and Experiences of Family Caregivers of Older First-Generation Chinese Americans with Dementia [\[Poster presentation\]](/presentations/gsa_poster_final.pdf). 2023 Annual Scientific Meeting of the Gerontological Society of America. Tampa, FL.
 
 #### **Side Projects**
 
@@ -71,5 +74,4 @@ Sabbatini, A. K., Parrish, C., Duber, H. C., Weaver, M., & **Hsu, E. C.** (2023)
 
 **Program Performance Dashboard**: A dashboard presenting the demographic overview, longitudinal attendance, and geographical distribution of participants in a program. Note: The data was de-identified or faked to protect the privacy of participants. [\[Link\]](/projects/dashboard.html)
 
-**Commercial Analysis Dashboard - Discount Abuse**: A dashboard identifying the excessive use of discount by customers, sales, and profits. [\[Link\]](https://public.tableau.com/views/practice19_DiscountAbusedStory/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 :::
