@@ -7,7 +7,7 @@ project:
     - presentations/GSA2024_Poster_v1.pdf
     - projects/dashboard.html
     - publications/ecs_evaluation_report.pdf
-  
+  output-dir: _site
 website:
   title: "Erh-Chi Hsu"
   site-url: https://erhchihsu.github.io/echsu/
