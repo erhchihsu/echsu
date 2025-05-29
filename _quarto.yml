@@ -10,7 +10,7 @@ project:
   output-dir: docs
 website:
   title: "Erh-Chi Hsu"
-  site-url: https://erhchihsu.github.io/echsu/
+  site-url: https://erhchihsu.github.io/echsu
   description: "Health and Long-Term Care"
   open-graph:
     locale: en_US
